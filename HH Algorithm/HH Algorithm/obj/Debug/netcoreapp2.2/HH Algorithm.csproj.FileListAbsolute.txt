@@ -1,0 +1,11 @@
+C:\Users\Rene De La Calleja\Source\Repos\Havel-Hakimi-Algorithm\HH Algorithm\HH Algorithm\bin\Debug\netcoreapp2.2\HH Algorithm.deps.json
+C:\Users\Rene De La Calleja\Source\Repos\Havel-Hakimi-Algorithm\HH Algorithm\HH Algorithm\bin\Debug\netcoreapp2.2\HH Algorithm.runtimeconfig.json
+C:\Users\Rene De La Calleja\Source\Repos\Havel-Hakimi-Algorithm\HH Algorithm\HH Algorithm\bin\Debug\netcoreapp2.2\HH Algorithm.runtimeconfig.dev.json
+C:\Users\Rene De La Calleja\Source\Repos\Havel-Hakimi-Algorithm\HH Algorithm\HH Algorithm\bin\Debug\netcoreapp2.2\HH Algorithm.dll
+C:\Users\Rene De La Calleja\Source\Repos\Havel-Hakimi-Algorithm\HH Algorithm\HH Algorithm\bin\Debug\netcoreapp2.2\HH Algorithm.pdb
+C:\Users\Rene De La Calleja\Source\Repos\Havel-Hakimi-Algorithm\HH Algorithm\HH Algorithm\obj\Debug\netcoreapp2.2\HH Algorithm.csprojAssemblyReference.cache
+C:\Users\Rene De La Calleja\Source\Repos\Havel-Hakimi-Algorithm\HH Algorithm\HH Algorithm\obj\Debug\netcoreapp2.2\HH Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Rene De La Calleja\Source\Repos\Havel-Hakimi-Algorithm\HH Algorithm\HH Algorithm\obj\Debug\netcoreapp2.2\HH Algorithm.AssemblyInfoInputs.cache
+C:\Users\Rene De La Calleja\Source\Repos\Havel-Hakimi-Algorithm\HH Algorithm\HH Algorithm\obj\Debug\netcoreapp2.2\HH Algorithm.AssemblyInfo.cs
+C:\Users\Rene De La Calleja\Source\Repos\Havel-Hakimi-Algorithm\HH Algorithm\HH Algorithm\obj\Debug\netcoreapp2.2\HH Algorithm.dll
+C:\Users\Rene De La Calleja\Source\Repos\Havel-Hakimi-Algorithm\HH Algorithm\HH Algorithm\obj\Debug\netcoreapp2.2\HH Algorithm.pdb
